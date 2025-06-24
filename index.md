@@ -6,25 +6,36 @@ layout: default
 # Portfolio
 
 ## Skills
-### 🧠 Data Analysis
-[![BigQuery](https://upload.wikimedia.org/wikipedia/commons/2/20/Google_BigQuery_Logo.png)](https://cloud.google.com/bigquery)  
-[![MySQL](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)](https://www.mysql.com/)  
-[![Looker Studio](https://upload.wikimedia.org/wikipedia/commons/e/e3/Looker_Studio_logo.svg)](https://lookerstudio.google.com/)  
-[![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)](https://powerbi.microsoft.com/)  
-[![Excel](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg)](https://www.microsoft.com/en-in/microsoft-365/excel)  
-[![Google Sheets](https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Sheets_logo_%282014-2020%29.svg)](https://www.google.com/sheets/about/)
+
+### 📊 Data Analysis
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_BigQuery_Logo.png" alt="BigQuery" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Looker_Studio_logo.svg" alt="Looker Studio" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" width="60"/>
+
+---
 
 ### 💻 Programming
-[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)  
-[![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)](https://pandas.pydata.org/)  
-[![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)](https://numpy.org/)  
-[![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](https://en.wikipedia.org/wiki/SQL)  
-[![Google Apps Script](https://upload.wikimedia.org/wikipedia/commons/2/25/Google_Script_logo.png)](https://developers.google.com/apps-script)
 
-### ⚙️ Tools & BI
-[![Power Query](https://learn.microsoft.com/en-us/power-query/media/power-query-logo.png)](https://learn.microsoft.com/en-us/power-query/)  
-[![Looker Studio](https://upload.wikimedia.org/wikipedia/commons/e/e3/Looker_Studio_logo.svg)](https://lookerstudio.google.com/)  
-[![Excel](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg)](https://www.microsoft.com/en-in/microsoft-365/excel)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Google_Script_logo.png" alt="Google Apps Script" width="60"/>
+
+---
+
+### ⚙️ Tools
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Looker_Studio_logo.svg" alt="Looker Studio" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60"/>
+<img src="https://learn.microsoft.com/en-us/power-query/media/power-query-logo.png" alt="Power Query" width="60"/>
+
 
 ## Experience
 **Data Analyst, Devshri Marketing** — Elphinstone, Mumbai, MH (2020–Present)  
