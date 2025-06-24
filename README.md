@@ -1,2 +1,2 @@
-# mayur.github.io
+# mayurgj.github.io
 Data Analytics Portfolio
