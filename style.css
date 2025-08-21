@@ -774,6 +774,11 @@ section {
     gap: 1rem;
 }
 
+.contact-info a {
+    color: white;
+    text-decoration: none;
+}
+
 .contact-item {
     display: flex;
     align-items: center;
