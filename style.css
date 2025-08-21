@@ -774,15 +774,6 @@ section {
     gap: 1rem;
 }
 
-.contact-info a {
-    text-decoration: none;
-    color: var(--text-primary)
-}
-
-.contact-info a:hover {
-    color: white;
-}
-
 .contact-item {
     display: flex;
     align-items: center;
