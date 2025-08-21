@@ -779,6 +779,10 @@ section {
     color: var(--text-primary)
 }
 
+.contact-info a:hover {
+    color: white;
+}
+
 .contact-item {
     display: flex;
     align-items: center;
